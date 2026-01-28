@@ -21,7 +21,7 @@ class DisplayDefaultPrimitiveType {
   }
 ```
 #OUTPUT:
-![OUTPUT OF exp1a](1a.PNG)
+![OUTPUT OF exp1a](1a.png)
 
 
 #1b)
@@ -60,4 +60,4 @@ class QuadraticRoots {
            }
 }
 ```
-![output of exp1b](1b.PNG)
+![output of exp1b](1b.png)
