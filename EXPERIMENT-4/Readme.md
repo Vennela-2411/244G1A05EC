@@ -117,6 +117,3 @@ abstract class Figure {
 ```
 #OUTPUT:
 ![output of exp4c](4c.png)
-
-  }
-}
